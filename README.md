@@ -1,7 +1,7 @@
 # Ryan's GitHub Profile
 
 > ## Description:
-   This is my profile featuring my GitHub projects.
+   This is my portfolio featuring my GitHub projects.
    
 > ## **Installation:**
    N/A

@@ -1,27 +1,55 @@
 # Ryan's GitHub Portfolio
 
+![Portfolio Picture](Images/Portfolio-Picture.png "Portfolio Picture")
+<!-- <img src="Images/Portfolio-Picture.png" alt="Portfolio Project" width="1000" height="600"> -->
+
 ## Description:
 
 > This is my GitHub portfolio featuring my public projects.
-   
-## **Installation:**
 
-> N/A
+## Projects:
 
-## **Usage:**
+> [Ball Project](https://github.com/RyanBlount-2/ball-project)  
 
-> Simply for enjoyment.
+> <a href="https://github.com/RyanBlount-2/ball-project"><img src="Images/Ball-Image.png" alt="Ball Project" width="250" height="150"></a>
 
-## **Support:**
+> [Pac-Man Project](https://github.com/RyanBlount-2/pac-man-project)  
 
-> Contact me.
+> <a href="https://github.com/RyanBlount-2/pac-man-project"><img src="Images/Pac-Man-Image.png" alt="Pac-Man Project" width="250" height="150"></a>
 
-## **Roadmap:**
+> [Eyes Project](https://github.com/RyanBlount-2/eyes-project)  
 
-> N/A
+> <a href="https://github.com/RyanBlount-2/eyes-project"><img src="Images/Eyes-Image.png" alt="Eyes Project" width="250" height="150"></a>
 
-## **License:**
+> [Map Project](https://github.com/RyanBlount-2/map-project)  
 
+> <a href="https://github.com/RyanBlount-2/map-project"><img src="Images/Map-Image.png" alt="Map Project" width="250" height="150"></a>
+
+> [Tower Of Hanoi Project](https://github.com/RyanBlount-2/tower-of-hanoi-project)  
+
+> <a href="https://github.com/RyanBlount-2/tower-of-hanoi-project"><img src="Images/Tower-Of-Hanoi-Image.png" alt="Tower Of Hanoi Project" width="250" height="150"></a>
+
+> [Dice Project](https://github.com/RyanBlount-2/dice-project)  
+
+> <a href="https://github.com/RyanBlount-2/dice-project"><img src="Images/Dice-Image.png" alt="Dice Project" width="250" height="150"></a>
+
+## Instructions For Use:
+
+> See each project page for instructions for use.
+
+## Usage:
+
+> As you please.
+
+## Support:
+
+> [LinkedIn Profile](https://linkedin.com/in/ryanblount2)  
+
+## Roadmap:
+
+> Projects are updated periodically.
+
+## License:
 > MIT License
 >
 > Copyright (c) 2022 Ryan Blount

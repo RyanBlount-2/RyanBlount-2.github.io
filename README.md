@@ -1,7 +1,8 @@
 # Ryan's GitHub Portfolio
+> ### Projects Page
 
-![Portfolio Picture](Images/Portfolio-Picture.png "Portfolio Picture")
-<!-- <img src="Images/Portfolio-Picture.png" alt="Portfolio Project" width="1000" height="600"> -->
+![Portfolio Image](Images/Portfolio-Image.png "Portfolio Image")
+<!-- <img src="Images/Portfolio-Image.png" alt="Portfolio Image" width="1000" height="600"> -->
 
 ## Description:
 

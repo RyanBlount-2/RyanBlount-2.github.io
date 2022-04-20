@@ -1,0 +1,235 @@
+body {
+   /* background: rgb(36, 72, 75); */
+   background: rgb(25, 50, 50);
+   margin: 0;
+   padding: 0;
+}
+
+.project-navigation-bar {
+   margin: 0px;
+   text-align: center;
+   border: solid;
+   border-width: 3px 0px 3px 0px;
+   border-color: rgb(0, 0, 0);
+   background-color: rgb(40, 40, 40);
+}
+
+   a.nav-a {
+      display: inline-block;
+      color: rgb(100, 100, 100);
+      text-decoration: none;
+      text-align: center;
+      font-weight: bold;
+      font-size: 15px;
+      width: 90px;
+      height: auto;
+      border-style: solid;
+      border-width: 3px;
+      border-radius: 7px;
+      border-color: rgb(0, 0, 0);
+      margin: 3px 10px 3px 10px;
+   }
+   
+   a.nav-a:hover {
+      color: rgb(175, 175, 175);
+      background-color: rgb(40, 40, 40);
+   }
+
+   .nav-a {
+      padding: 1px 5px 1px 5px;
+   }
+
+   .nav-button {
+      text-align: center;
+      font-weight: bold;
+      font-size: 15px;
+      width: auto;
+      height: auto;
+      border-style: solid;
+      border-width: 3px;
+      border-radius: 7px;
+      border-color: rgb(0, 0, 0);
+      margin: 3px 10px 3px 10px;
+   }
+   
+   .off {
+      color: rgb(100, 100, 100);
+      background-color: rgb(25, 25, 25);
+      border-style: solid;
+      border-width: 3px;
+      border-color: rgb(0, 0, 0);
+   }
+   
+   .off:hover {
+      color: rgb(175, 175, 175);
+      background-color: rgb(40, 40, 40);
+   }
+   
+   .on {
+      color: rgb(10, 100, 10);
+      background-color: rgb(25, 25, 25);
+      border-style: solid;
+      border-width: 3px;
+      border-color: rgb(10, 100, 10);
+   }
+   
+   .on:hover {
+      color: rgb(175, 175, 175);
+      background-color: rgb(40, 40, 40);
+   }
+
+.page-caption {
+   margin: 0px 0px 20px 0px;
+   text-align: center;
+   height: 30px;
+   border: solid;
+   border-width: 0px 0px 3px 0px;
+   border-color: rgb(0, 0, 0);
+   background-color: rgb(60, 60, 60);
+}
+
+   .caption {
+      position: relative;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      width: 20%;
+      color:rgb(0, 0, 0);
+      font-size: 18px;
+      font-weight: bold;
+   }
+
+.project-content {
+   position: relative;
+   left: 50%;
+   transform: translate(-50%, 0%);
+   text-align: center;
+   color:rgb(0, 0, 0);
+   background-color: rgb(60, 60, 60);
+   width: 50%;
+   border: solid;
+   border-width: 6px;
+   border-color: rgb(0, 0, 0);
+   margin: 0px 0px 20px 0px;
+}
+
+   .content {
+      padding: 15px 0px 0px 0px;
+   }
+
+   a.contact {
+      color: rgb(150, 150, 150);
+      font-size: 15px;
+      font-weight: bold;
+      padding: 3px;
+      background-color: rgb(40, 40, 40);
+      border-style: solid;
+      border-width: 3px;
+      border-radius: 7px;
+      border-color: rgb(0, 0, 0);
+   }
+
+   .image {
+      width: 25%;
+      height: 25%;
+      border-style: solid;
+      border-width: 5px;
+      border-color: rgb(0, 0, 0);
+   }
+
+.project-video {
+   margin: 0px 0px 20px 0px;
+   text-align: center;
+}
+
+.project-carousel {
+   margin: 0px 0px 20px 0px;
+}
+
+   #carouselExampleCaptions {
+      aspect-ratio: 5/3;
+      position: relative;
+      width: 50%;
+      left: 50%;
+      transform: translate(-50%, 0%);
+   }
+
+   .carousel-caption {
+      font-size: 15px;
+      color: black;
+      top: 70%;
+   }
+
+   #sticky {
+      position: sticky;
+      overscroll-behavior: contain;
+      overflow: hidden;
+      float: none;
+   }
+
+   .carousel-indicators [data-bs-target] {
+      position: relative;
+      width: 50px;
+      height: 3px;
+      border: none;
+      border-radius: 24px;
+   }
+
+   .carousel-indicators [data-bs-target] span {
+      content: ’’;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 0;
+      height: 100%;
+      background: #7952b3;
+      border-radius: inherit;
+   }
+
+   .carousel-control-prev, .carousel-control-next {
+      position: absolute;
+      top: 50%;
+      transform: translate(0%, -50%);
+      height: 25%;
+   }
+
+.project-projects {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-template-rows: auto;
+   gap: 25px;
+   margin: 0px 100px 20px 100px;
+}
+
+   section {
+      padding: 10px;
+      text-align: center;
+      color: rgb(0, 0, 0);
+      background-color: rgb(75, 75, 75);
+   }
+
+   .projects {
+      border: solid;
+      border-width: 6px;
+      border-color: rgb(0, 0, 0);
+      border-radius: 5px;
+   }
+
+   .titles {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   }
+
+   .descriptions {
+      font-family: monospace;
+   }
+
+   .images {
+      width: 100%;
+      position: relative;
+      left: 50%;
+      transform: translate(-50%, 0%);
+      border: solid;
+      border-width: 3px;
+      border-color: rgb(0, 0, 0);
+      border-radius: 5px;
+   }

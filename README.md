@@ -8,6 +8,12 @@
 
 > This is my GitHub portfolio featuring my public projects.
 
+    Features Include:
+     - HTML, CSS, & JavaScript Source Code
+     - Custom Images
+     - Background Video - "Tiny Bubbles in Dark Blue Water" by cottonbro on Pexels
+     - Bootstrap Styling
+
 ## Projects:
 
 > [Ball Project](https://github.com/RyanBlount-2/ball-project)  
